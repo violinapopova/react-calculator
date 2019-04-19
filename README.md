@@ -10,6 +10,7 @@ A simple calculator built with React.js and Math.js
     npm install
     
 3. Math.js can be installed via npm:
+    
     npm install mathjs
     
 4. To run the app in a development mode
