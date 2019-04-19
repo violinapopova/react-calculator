@@ -2,7 +2,7 @@
 
 A simple calculator built with React.js and Math.js
 
-#Installation
+# Installation
 1. Clone the repository or download files
 
 2. You will need npm to manage dependencies.
