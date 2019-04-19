@@ -16,4 +16,5 @@ A simple calculator built with React.js and Math.js
 4. To run the app in a development mode
 
     npm start
+    
     Open http://localhost:3000 to view it in the browser.
